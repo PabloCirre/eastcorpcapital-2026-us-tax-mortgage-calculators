@@ -1,0 +1,25 @@
+{
+  "name": "eastcorpcapital-2026-us-tax-mortgage-calculators",
+  "version": "1.0.0",
+  "description": "Open-access 2026 U.S. East Coast 16-State Statutory Tax, Real Estate Transfer Tax, Mortgage Underwriting & HNW Wealth Engineering Dataset & SDK by East Corp Capital (https://eastcorpcapital.com/).",
+  "main": "index.html",
+  "homepage": "https://eastcorpcapital.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PabloCirre/eastcorpcapital-2026-us-tax-mortgage-calculators.git"
+  },
+  "keywords": [
+    "tax",
+    "real-estate",
+    "mortgage",
+    "east-coast",
+    "nyc-mansion-tax",
+    "florida-homestead",
+    "delaware-franchise-tax",
+    "ptet",
+    "nua",
+    "rule-72t"
+  ],
+  "author": "Pablo Cirre G\u00f3mez & Jos\u00e9 Enrique Rodr\u00edguez Zarza, Esq. (East Corp Capital)",
+  "license": "CC-BY-4.0"
+}
